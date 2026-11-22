@@ -1,0 +1,6 @@
+Enquête : EHCVM Bénin 2018-2019
+Identifiant : BEN_2018_EHCVM_v02_M
+URL : https://microdata.worldbank.org/catalog/4291/get-microdata
+Date de téléchargement : 20 novembre 2026
+Licence : conditions d'utilisation de la Microdata Library (Banque mondiale) : usage de recherche statistique et scientifique ; pas de redistribution sans accord écrit préalable ; diffusion d'informations agrégées uniquement ; aucune tentative d'identification des répondants ; citation obligatoire selon les exigences fournies avec le jeu de données.
+Citation : (à recopier depuis la page de l'enquête)

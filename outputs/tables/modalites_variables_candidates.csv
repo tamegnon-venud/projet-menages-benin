@@ -1,0 +1,29 @@
+variable,libelle,pct,code,modalite,n
+toit,toit en materiaux definitifs,6.5,0,Non,519
+toit,toit en materiaux definitifs,93.5,1,Oui,7493
+mur,Mur en materiaux definitifs,24,0,Non,1926
+mur,Mur en materiaux definitifs,76,1,Oui,6086
+sol,Sol en materiaux definitifs,30.6,0,Non,2454
+sol,Sol en materiaux definitifs,69.4,1,Oui,5558
+eauboi_ss,eau potable saison seche,29.5,0,Non,2364
+eauboi_ss,eau potable saison seche,70.5,1,Oui,5648
+elec_ac,Acces reseau electrique,74.2,0,Non,5941
+elec_ac,Acces reseau electrique,25.8,1,Oui,2071
+toilet,Toilettes saines,78.2,0,Non,6264
+toilet,Toilettes saines,21.8,1,Oui,1748
+ordure,Déchets évacués sainement,74.6,0,Non,5974
+ordure,Déchets évacués sainement,25.4,1,Oui,2038
+tv,Menage a TV,76.9,0,Non,6158
+tv,Menage a TV,23.1,1,Oui,1854
+fer,Menage a fer electrique,94.3,0,Non,7556
+fer,Menage a fer electrique,5.7,1,Oui,456
+frigo,Menage a frigo/congel,96.2,0,Non,7707
+frigo,Menage a frigo/congel,3.8,1,Oui,305
+cuisin,Menage a cuisiniere elec/gaz,97,0,Non,7768
+cuisin,Menage a cuisiniere elec/gaz,3,1,Oui,244
+ordin,Menage a ordinateur,97,0,Non,7768
+ordin,Menage a ordinateur,3,1,Oui,244
+decod,Menage a decodeur/antenne,88.2,0,Non,7070
+decod,Menage a decodeur/antenne,11.8,1,Oui,942
+car,Menage a voiture,96.7,0,Non,7745
+car,Menage a voiture,3.3,1,Oui,267

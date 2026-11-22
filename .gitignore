@@ -1,5 +1,7 @@
 data/raw/
+data/processed/
+*.dta
+*.rds
 .Rproj.user/
 .Rhistory
 .RData
-.Ruserdata
